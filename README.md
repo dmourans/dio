@@ -1,2 +1,2 @@
-# dio
-BootCamp DIO
+# DIO
+BootCamp DIO / Kotlin
